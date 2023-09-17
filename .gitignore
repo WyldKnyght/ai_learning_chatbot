@@ -161,3 +161,9 @@ cython_debug/
 
 # working documents only, not for distribution 
 .my_working_docs
+
+#Chatterbox Clone
+ChatterBot
+
+#Visual Studio files
+.vs
